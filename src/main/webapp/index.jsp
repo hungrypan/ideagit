@@ -23,5 +23,6 @@
     <p>flow test feature-1</p>
     <p>release v1.0</p>
     <p>hotfix v1.0's bug</p>
+    <p>flow test feature-2</p>
 </body>
 </html>
