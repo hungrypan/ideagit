@@ -14,8 +14,9 @@
     init project
     modify index.jsp
     <p>local 111</p>
-  <p>remote modify 111</p>
-  <p>remote modify 222</p>
+    <p>remote modify 111</p>
+    <p>local 222</p>
+    <p>remote modify 222</p>
     <p>remote modify 333</p>
 </body>
 </html>
